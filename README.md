@@ -1,5 +1,3 @@
-# storloop
-
 # Privacy Policy for StorLoop
 
 Effective date: 15 June 2026
