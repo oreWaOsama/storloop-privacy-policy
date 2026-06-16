@@ -266,36 +266,5 @@ For privacy questions, requests, or complaints, contact:
 - Email: support@storloop.ie
 - Phone: +353830240700
 
-## Questions to Confirm Before Publishing
 
-Please confirm these items before using this policy on Google Play:
-
-1. What is the public website URL where this policy will be hosted? Google Play requires a publicly accessible, non-PDF privacy policy URL.
-2. What is the external account deletion URL for Play Console? The app has account creation and an in-app Delete Account screen, so Google Play requires a web link for deletion requests too.
-3. Which payment processor is used for card payments, wallet top-ups, and withdrawals?
-4. Which backend/cloud/file storage providers are used for uploaded photos, identity documents, proof of address, and reports?
-5. Do you use analytics, crash reporting, advertising, attribution, or marketing SDKs that are not obvious from `pubspec.yaml`?
-6. Do you serve users only in Ireland, or also in the EU/EEA, UK, Egypt, or other countries?
-7. What minimum user age should the policy state?
-8. What exact retention periods should apply to account data, booking records, chat messages, identity verification, proof of address, uploaded images, and payment records?
-9. Do hosts or guests see each other's phone number, email, exact address, vehicle details, pet details, or uploaded images during booking or messaging?
-10. Does the app collect location in the background, or only while the user is actively using location-based features?
-11. Are full payment card details ever collected by StorLoop servers, or only by a payment provider?
-12. Do you share data with insurers, background-check providers, parking operators, pet care providers, or other operational partners?
-
-## Google Play Data Safety Notes
-
-Based on the current project, the Google Play Data safety form will likely need declarations for:
-
-- Personal info: name, email, phone number, address, user IDs
-- Financial info: payment, wallet, card identifier, transaction, receipt, withdrawal, and purchase history data
-- Location: approximate and precise location
-- Photos and videos: uploaded or selected images
-- Files and documents: identity, proof of address, service, report, and support uploads
-- App activity: bookings, searches, messages, reports, service setup, and in-app actions
-- App info and performance: logs, diagnostics, crash/error information if collected
-- Device or other IDs: Firebase Cloud Messaging token and app/device identifiers used for notifications
-- Messages: in-app chat content
-
-Make sure the Play Console Data safety answers match this policy and the actual production backend behavior.
 
