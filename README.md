@@ -260,7 +260,7 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 For privacy questions, requests, or complaints, contact:
 
-- Company: storloop
+- Company: STORLOOP LIMITED
 - Email: support@storloop.ie
 - Phone: +353830240700
 
