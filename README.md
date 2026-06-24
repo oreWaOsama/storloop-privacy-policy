@@ -232,8 +232,6 @@ When you request account deletion, we will delete or anonymize personal data ass
 - Resolving disputes or enforcing agreements
 - Complying with law, court orders, or regulatory requests
 
-Google Play may require an external account deletion URL in Play Console if users can create accounts in the App. Confirm and publish this URL before submission.
-
 ## Your Choices
 
 You can:
