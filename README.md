@@ -8,7 +8,7 @@ StorLoop helps users discover, book, manage, and provide parking, storage, and p
 
 Contact:
 
-- Company: storloop
+- Company: STORLOOP LIMITED 
 - Email: support@storloop.ie
 - Phone: +353830240700
 
