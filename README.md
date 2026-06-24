@@ -12,7 +12,7 @@ Contact:
 - Email: support@storloop.ie
 - Phone: +353830240700
 
-This document is a privacy policy draft based on the current Flutter project, declared app permissions, and app data models. Before publishing it, confirm the open questions at the end and have it reviewed for the countries where StorLoop will operate.
+
 
 ## Information We Collect
 
